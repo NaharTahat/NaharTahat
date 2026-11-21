@@ -102,4 +102,6 @@ An academic project focused on AI-driven cybersecurity, threat intelligence, hon
 ---
 
 ⭐ *Always learning, building, and exploring new technologies.*
-
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
