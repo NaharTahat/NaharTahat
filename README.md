@@ -6,7 +6,8 @@
 
 I'm an Artificial Intelligence graduate passionate about building intelligent solutions, exploring Machine Learning, and developing software applications.
 
-My interests include:
+## 💡 Interests
+
 - Artificial Intelligence & Machine Learning
 - Data Analysis & Data Science
 - Python Development
@@ -30,7 +31,6 @@ My interests include:
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-008080?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Web Development
 
@@ -47,7 +47,7 @@ My interests include:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -58,30 +58,33 @@ My interests include:
 
 ## 🚀 Featured Projects
 
-### 1. SkillForge AI
+### SkillForge AI
+
 An AI-powered career development platform featuring:
+
 - CV Analysis
 - AI Job Matching
 - Personalized Learning Roadmaps
 - AI Interview Practice
 - Professional Portfolio Generation
 
-🔗 [View Repository](https://github.com/NaharTahat/skillforge-ai)
+[View Repository](https://github.com/NaharTahat/skillforge-ai)
 
-### 2. AI-Integrated Cyber Defense Framework
+### AI-Integrated Cyber Defense Framework
+
 An academic project focused on AI-driven cybersecurity, threat intelligence, honeypot deception, and automated code remediation.
 
 ---
 
 ## 🎓 Certifications & Activities
 
-- Cisco – Artificial Intelligence
-- Cisco – Introduction to Cybersecurity
-- Python Programming – Udemy
-- Data Analysis – Coursera
-- 42 Amman – Training Program
+- Cisco — Artificial Intelligence
+- Cisco — Introduction to Cybersecurity
+- Python Programming — Udemy
+- Data Analysis — Coursera
+- 42 Amman — Training Program
 - SOFEX Participation
-- NASA Competition – Ranked 53rd out of 250 participants
+- NASA Competition — Ranked 53rd out of 250 participants
 
 ---
 
@@ -102,6 +105,3 @@ An academic project focused on AI-driven cybersecurity, threat intelligence, hon
 ---
 
 ⭐ *Always learning, building, and exploring new technologies.*
-<p align="center">
-  <img src="banner.png" width="100%" />
-</p>
